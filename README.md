@@ -3,3 +3,5 @@ Com o sklearn podemos utilizar a metodologia de treino e teste. Nessa metodologi
 
 Anos correspondentes aos dados de teste -> 2007,2008,2009,2010,2011,2012,2013,2014,2015,2016
 INTUIÇÃO sobre modelos de CLASSIFICAÇÃO | Machine Learning #03 -> https://www.youtube.com/watch?v=KHCFhVKjy1A&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q&index=3&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica
+
+Sobre o conjunto de teste e treinamento -> https://www.youtube.com/watch?v=39HBlzFV9vk&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q&index=4&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica
